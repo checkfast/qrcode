@@ -1,8 +1,8 @@
 {
-  "name": "CheckFast – Lista Digitale",
-  "short_name": "Lista Digitale",
-  "start_url": "/listadigitale/",
-  "scope": "/listadigitale/",
+  "name": "CheckFast – QR-Code",
+  "short_name": "QR-Code",
+  "start_url": "/qrcode/",
+  "scope": "/qrcode/",
   "display": "fullscreen",
   "background_color": "#1f2937",
   "theme_color": "#1f2937",
